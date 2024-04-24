@@ -8,4 +8,4 @@
 **数据来源**  
   
 ip数据：[https://github.com/FW27623/qqwry](https://github.com/FW27623/qqwry)  
-phone数据：[https://github.com/ls0f/phone/tree/master](https://github.com/ls0f/phone)  
+phone数据：[https://github.com/lovedboy/phone/raw/master/phone/phone.dat](https://github.com/lovedboy/phone/raw/master/phone/phone.dat)
